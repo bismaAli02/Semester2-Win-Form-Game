@@ -1,0 +1,12 @@
+D:\Game\Game With Framework\MovementFramework\obj\Debug\MovementFramework.csproj.AssemblyReference.cache
+D:\Game\Game With Framework\MovementFramework\obj\Debug\MovementFramework.csproj.CoreCompileInputs.cache
+D:\Game\Game With Framework\MovementFramework\bin\Debug\MovementFramework.dll
+D:\Game\Game With Framework\MovementFramework\bin\Debug\MovementFramework.pdb
+D:\Game\Game With Framework\MovementFramework\obj\Debug\MovementFramework.dll
+D:\Game\Game With Framework\MovementFramework\obj\Debug\MovementFramework.pdb
+C:\Users\Dell\Downloads\Game With Framework\Game With Framework\MovementFramework\bin\Debug\MovementFramework.dll
+C:\Users\Dell\Downloads\Game With Framework\Game With Framework\MovementFramework\bin\Debug\MovementFramework.pdb
+C:\Users\Dell\Downloads\Game With Framework\Game With Framework\MovementFramework\obj\Debug\MovementFramework.csproj.AssemblyReference.cache
+C:\Users\Dell\Downloads\Game With Framework\Game With Framework\MovementFramework\obj\Debug\MovementFramework.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\Game With Framework\Game With Framework\MovementFramework\obj\Debug\MovementFramework.dll
+C:\Users\Dell\Downloads\Game With Framework\Game With Framework\MovementFramework\obj\Debug\MovementFramework.pdb

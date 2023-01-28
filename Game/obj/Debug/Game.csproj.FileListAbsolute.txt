@@ -1,0 +1,34 @@
+D:\Game\Game With Framework\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+D:\Game\Game With Framework\Game\obj\Debug\Game.Forms.InputNameForm.resources
+D:\Game\Game With Framework\Game\obj\Debug\Game.Forms.Level1Form.resources
+D:\Game\Game With Framework\Game\obj\Debug\Game.Forms.MenuForm.resources
+D:\Game\Game With Framework\Game\obj\Debug\Game.Forms.ViewScoreForm.resources
+D:\Game\Game With Framework\Game\obj\Debug\Game.Properties.Resources.resources
+D:\Game\Game With Framework\Game\obj\Debug\Game.csproj.GenerateResource.cache
+D:\Game\Game With Framework\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+D:\Game\Game With Framework\Game\bin\Debug\Game.exe.config
+D:\Game\Game With Framework\Game\bin\Debug\Game.exe
+D:\Game\Game With Framework\Game\bin\Debug\Game.pdb
+D:\Game\Game With Framework\Game\bin\Debug\MovementFramework.dll
+D:\Game\Game With Framework\Game\bin\Debug\MovementFramework.pdb
+D:\Game\Game With Framework\Game\obj\Debug\Game.csproj.CopyComplete
+D:\Game\Game With Framework\Game\obj\Debug\Game.exe
+D:\Game\Game With Framework\Game\obj\Debug\Game.pdb
+D:\Game\Game With Framework\Game\obj\Debug\Game.Forms.Level2Form.resources
+C:\Users\Dell\Downloads\Game With Framework\Game With Framework\Game\bin\Debug\Game.exe.config
+C:\Users\Dell\Downloads\Game With Framework\Game With Framework\Game\bin\Debug\Game.exe
+C:\Users\Dell\Downloads\Game With Framework\Game With Framework\Game\bin\Debug\Game.pdb
+C:\Users\Dell\Downloads\Game With Framework\Game With Framework\Game\bin\Debug\MovementFramework.dll
+C:\Users\Dell\Downloads\Game With Framework\Game With Framework\Game\bin\Debug\MovementFramework.pdb
+C:\Users\Dell\Downloads\Game With Framework\Game With Framework\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+C:\Users\Dell\Downloads\Game With Framework\Game With Framework\Game\obj\Debug\Game.Forms.InputNameForm.resources
+C:\Users\Dell\Downloads\Game With Framework\Game With Framework\Game\obj\Debug\Game.Forms.Level1Form.resources
+C:\Users\Dell\Downloads\Game With Framework\Game With Framework\Game\obj\Debug\Game.Forms.Level2Form.resources
+C:\Users\Dell\Downloads\Game With Framework\Game With Framework\Game\obj\Debug\Game.Forms.MenuForm.resources
+C:\Users\Dell\Downloads\Game With Framework\Game With Framework\Game\obj\Debug\Game.Forms.ViewScoreForm.resources
+C:\Users\Dell\Downloads\Game With Framework\Game With Framework\Game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\Dell\Downloads\Game With Framework\Game With Framework\Game\obj\Debug\Game.csproj.GenerateResource.cache
+C:\Users\Dell\Downloads\Game With Framework\Game With Framework\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\Game With Framework\Game With Framework\Game\obj\Debug\Game.csproj.CopyComplete
+C:\Users\Dell\Downloads\Game With Framework\Game With Framework\Game\obj\Debug\Game.exe
+C:\Users\Dell\Downloads\Game With Framework\Game With Framework\Game\obj\Debug\Game.pdb
